@@ -1,6 +1,6 @@
 # Video Browser
 
-A YouTube clone based on [Stephen Grider's](https://github.com/StephenGrider) [Modern React and Redux] course(https://www.udemy.com/react-redux/) using [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) as an initial project template.
+A YouTube clone based on [Stephen Grider's](https://github.com/StephenGrider) [Modern React and Redux](https://www.udemy.com/react-redux/) course using [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter) as an initial project template.
 
 The video browser leverages React and the YouTube API to create a real video browsing experience that emulates YouTube.
 
